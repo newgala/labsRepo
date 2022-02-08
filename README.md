@@ -1,6 +1,6 @@
 ![alt text](https://github.com/newgala/IronAngela/blob/main/logo-ironhack-blue.png)
 # Ironhack group project: working with messy data
-### Data set from Kaggle from the web about US data science hires in 2018[download here](https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us?select=alldata.csv)
+### Data set from Kaggle from the web about US data science hires in 2018 [download here](https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us?select=alldata.csv)
 ### Challenge:
 * clean
 * wrangle 
@@ -13,4 +13,9 @@
 For more info (c
 
 [Tableau](https://www.tableau.com/)
+
 * Data aggregations and visualisations 
+
+![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/1.png)
+![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/2.png)
+![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/3.png)
