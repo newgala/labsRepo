@@ -16,10 +16,10 @@ Our main challenge will be to use Python to clean, wrangle and generally reshape
 ***
 ### Built with:
  [Python](https://www.python.org/)
-* Standardise and clean the data using string functions,
+* Standardise and clean the data using string functions
 * Apply map and for loops to check the True and False values for the defined keywords
-* Counting true values to define subtotals.
-* 
+* Counting true values to define subtotals
+
 [Tableau](https://www.tableau.com/)
 * Data aggregations and visualisations 
 ***
@@ -33,3 +33,4 @@ Our main challenge will be to use Python to clean, wrangle and generally reshape
 ***
 
 ### Insight
+We found hard to properly filter the keywords in the dataset, so our findings can be improved.
