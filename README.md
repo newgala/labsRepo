@@ -23,7 +23,10 @@ Our main challenge will be to use Python to clean, wrangle and generally reshape
 [Tableau](https://www.tableau.com/)
 * Data aggregations and visualisations 
 ***
-#### Following some visualisation with Tableau
+#### Following some visualisation with Tableau showing:
+* top 5 States and cities with the most job opportunities
+* top 3 talents the employer are looking for 
+* top 3 skills, tools, education the employer wants in the ideal data scientist
 
 ![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/1.png)
 ***
@@ -33,4 +36,4 @@ Our main challenge will be to use Python to clean, wrangle and generally reshape
 ***
 
 ### Insight
-We found hard to properly filter the keywords in the dataset, so our findings can be improved.
+We found challenging to properly filter the keywords in the dataset, so our findings can be improved.
