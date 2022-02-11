@@ -4,7 +4,7 @@
 ### Data: [Kaggle](https://www.kaggle.com/general/248836)
 
 ### Objective:
-Predicting strokes incidences using the logistic regression classify and check the accurancy of the result 
+Predicting strokes incidences using the logistic regression classify and check the result accurancy 
 ***
 ### Built with:
  [Python](https://www.python.org/)
@@ -19,16 +19,12 @@ Predicting strokes incidences using the logistic regression classify and check t
 9. AUC 
 
 [Tableau](https://www.tableau.com/)
-* Data aggregations and visualisations of which variable have more impact on the incidence rate and we found out that 
-***
-![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/1.png)
-***
-![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/2.png)
-***
-![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/3.png)
+* Data aggregations and visualisations of which variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
+
 ***
 
 ### Method:
+
 
 ### Insight
 
