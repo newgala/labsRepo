@@ -8,7 +8,8 @@ Predicting strokes incidences using the logistic regression classify and check t
 ***
 ### Built with:
 [Tableau](https://www.tableau.com/)
-### Data aggregations and visualisations of which variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
+### Data aggregations and visualisations:
+compare the variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
 
  [Python](https://www.python.org/)
 #### Initial cleaning steps
