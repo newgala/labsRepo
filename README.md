@@ -13,7 +13,7 @@ compare the variable have more impact on the incidence rate and we found out tha
 
  [Python](https://www.python.org/)
 #### Initial cleaning steps
-#### EDA
+* #### EDA
 3. Pre-processing
 4. Train, test, split
 5. Logistic regression classify
