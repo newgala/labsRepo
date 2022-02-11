@@ -12,9 +12,10 @@ Predicting strokes incidences using the logistic regression classify and check t
 compare the variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
 
  [Python](https://www.python.org/)
-* #### Initial cleaning steps
-* #### EDA
-* #### Pre-processing
+* #### Initial cleaning steps:deal with nulls, drop useless columns, 
+identify if any dupklicates and the drop as needed
+* #### EDA: review columns' distribution, counts and correlation
+* #### Pre-processing: encode categories and scale numerics
 * #### Train, test, split
 * #### Logistic regression classify
 * #### Check accuracy of our classification model
