@@ -32,14 +32,9 @@ Predicting strokes incidences using the logistic regression classify and check t
 
 ***
 
-### Method:
-
 ### Insight
 
-1. Our model can predict the incident of  of 84%
-2. We suspect the following features to impact the customers decision to accept the most:
+1. Our model predicted the incident of stroke with an accurancy of 78%
+2. We suspect the following features to impact the stroke incidence: age, BMI, hypertension and smoking status.
 
-    mailer type
-    credit rating
-    income level
-    reward
+ 
