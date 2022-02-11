@@ -1,7 +1,7 @@
 ![alt text](https://github.com/newgala/IronAngela/blob/main/logo-ironhack-blue.png)
 # Ironhack Homelab: predicting strokes incidences
 ![alt text](https://github.com/newgala/IronAngela/blob/main/stroke%20pic.jpg)
-### Data: [Kaggle](https://www.kaggle.com/general/248836)
+### Data: [download](https://github.com/newgala/BCNDATA0122/blob/main/ClassMaterials/Week4/data%20sources/strokes_data.csv)
 
 ### Objective:
 Predicting strokes incidences using the logistic regression classify and fit the model to a more balanced data
