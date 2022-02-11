@@ -14,10 +14,11 @@ Predicting strokes incidences using the logistic regression classify and check t
 4. Train, test, split
 5. Logistic regression classify
 7. Check accuracy of our classification model
-8. Resampling techniques:
+8. Fit the model to more balanced data
+9. Resampling techniques:
 * confusion_matrix
 * heatmap
-10. Correlating categories:Random Under Sampler
+10. Correlating categories:Random Under Sampler and Random Over Sampler
 11. AUC 
 
 [Tableau](https://www.tableau.com/)
