@@ -1,5 +1,5 @@
 ![alt text](https://github.com/newgala/IronAngela/blob/main/logo-ironhack-blue.png)
-# Ironhack class project : predicting strokes incidences
+# Ironhack Homelab: predicting strokes incidences
 ![alt text](https://github.com/newgala/IronAngela/blob/main/stroke%20pic.jpg)
 ### Data: [Kaggle](https://www.kaggle.com/general/248836)
 
