@@ -13,10 +13,12 @@ Predicting strokes incidences using the logistic regression classify and check t
 3. Pre-processing
 4. Train, test, split
 5. Logistic regression classify
-6. Check accuracy of our classification model
-7. Resampling techniques
-8. Correlating categories
-9. AUC 
+7. Check accuracy of our classification model
+8. Resampling techniques:
+* confusion_matrix
+* heatmap
+10. Correlating categories:Random Under Sampler
+11. AUC 
 
 [Tableau](https://www.tableau.com/)
 * Data aggregations and visualisations of which variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
@@ -28,3 +30,10 @@ Predicting strokes incidences using the logistic regression classify and check t
 
 ### Insight
 
+1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
+2. We suspect the following features to impact the customers decision to accept the most:
+
+    mailer type
+    credit rating
+    income level
+    reward
