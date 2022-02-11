@@ -1,5 +1,5 @@
 ![alt text](https://github.com/newgala/IronAngela/blob/main/logo-ironhack-blue.png)
-# Ironhack group project: working with messy data
+# Ironhack class project : Predicting strokes incidences
 ### Data: [Kaggle](https://www.kaggle.com/general/248836)
 
 ### About the project:
