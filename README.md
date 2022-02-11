@@ -23,6 +23,9 @@ Predicting strokes incidences using the logistic regression classify and check t
 * heatmap
 10. Correlating categories:Random Under Sampler and Random Over Sampler
 11. AUC 
+
+[link to code ](http://localhost:8889/notebooks/Desktop/GitHub/filesforwork/Predicting_strokes_incidences%2008.02.2022.ipynb)
+
 ***
 
 ### Method:
@@ -30,7 +33,7 @@ Predicting strokes incidences using the logistic regression classify and check t
 
 ### Insight
 
-1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
+1. Our model can predict the incident of  of 84%
 2. We suspect the following features to impact the customers decision to accept the most:
 
     mailer type
