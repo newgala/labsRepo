@@ -4,7 +4,7 @@
 ### Data: [Kaggle](https://www.kaggle.com/general/248836)
 
 ### Objective:
-Predicting strokes incidences using the logistic regression classify and check the result accurancy 
+Predicting strokes incidences using the logistic regression classify and fit the model to a more balanced data
 ***
 ### Built with:
 [Tableau](https://www.tableau.com/)
