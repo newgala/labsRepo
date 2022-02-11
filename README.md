@@ -21,14 +21,13 @@ compare the variable have more impact on the incidence rate and we found out tha
 * #### Fit the model to more balanced data
 * #### Resampling techniques: confusion_matrix and heatmap
 * #### Correlating categories:Random Under Sampler and Random Over Sampler
-* #### 
+* #### AUC
 
 [link to code ](http://localhost:8889/notebooks/Desktop/GitHub/filesforwork/Predicting_strokes_incidences%2008.02.2022.ipynb)
 
 ***
 
 ### Method:
-
 
 ### Insight
 
