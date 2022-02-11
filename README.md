@@ -1,35 +1,26 @@
 ![alt text](https://github.com/newgala/IronAngela/blob/main/logo-ironhack-blue.png)
-# Ironhack class project : Predicting strokes incidences
+# Ironhack class project : predicting strokes incidences
+![alt text](https://github.com/newgala/IronAngela/blob/main/stroke%20pic.jpg)
 ### Data: [Kaggle](https://www.kaggle.com/general/248836)
 
-### About the project:
-Predicting strokes incidences
-***
 ### Objective:
-Our main challenge will be to use Python to clean, wrangle and generally reshape the data to make it more straightforward to analyse with Python or to visualise with Tableau to plot the data.
+Predicting strokes incidences using the logistic regression classify and check the accurancy of the result 
 ***
 ### Built with:
  [Python](https://www.python.org/)
 1. Initial cleaning steps
-2. EDA:
-Pre-processing
+2. EDA
+3. Pre-processing
 4. Train, test, split
 5. Logistic regression classify
-6.  Check accuracy of our classification model
-7.Resampling techniques
-* 
-* Counting true values to define subtotals
+6. Check accuracy of our classification model
+7. Resampling techniques
+8. Correlating categories
+9. AUC 
 
 [Tableau](https://www.tableau.com/)
-* Data aggregations and visualisations of which variable have more impact on the incidence rate
-*
-* 
+* Data aggregations and visualisations of which variable have more impact on the incidence rate and we found out that 
 ***
-#### Following some visualisation with Tableau showing:
-* top 5 States and cities with the most job opportunities
-* top 3 talents the employer are looking for 
-* top 3 skills, tools, education the employer wants in the ideal data scientist
-
 ![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/1.png)
 ***
 ![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/2.png)
@@ -37,5 +28,7 @@ Pre-processing
 ![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/3.png)
 ***
 
+### Method:
+
 ### Insight
-We found challenging to properly filter the keywords in the dataset, so our findings can be improved.
+
