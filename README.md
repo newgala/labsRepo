@@ -8,20 +8,24 @@ Predicting strokes incidences using the logistic regression classify and check t
 ***
 ### Built with:
 [Tableau](https://www.tableau.com/)
-### Data aggregations and visualisations:
-compare the variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
+#### Data aggregations and visualisations:
+###### compare the variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
 
  [Python](https://www.python.org/)
-* #### Initial cleaning steps:deal with nulls, drop useless columns, 
-identify if any dupklicates and the drop as needed
-* #### EDA: review columns' distribution, counts and correlation
+* #### Initial cleaning steps   
+  ###### deal with nulls and drop useless columns
+* #### EDA
+  ###### review columns' distribution, counts and correlation
 * #### Pre-processing: encode categories and scale numerics
 * #### Train, test, split
+  ######
 * #### Logistic regression classify
 * #### Check accuracy of our classification model
 * #### Fit the model to more balanced data
-* #### Resampling techniques: confusion_matrix and heatmap
-* #### Correlating categories:Random Under Sampler and Random Over Sampler
+* #### Resampling techniques
+  ###### confusion_matrix and heatmap
+* #### Correlating categories
+  ###### Random Under Sampler and Random Over Sampler
 * #### AUC
 
 [link to code ](http://localhost:8889/notebooks/Desktop/GitHub/filesforwork/Predicting_strokes_incidences%2008.02.2022.ipynb)
