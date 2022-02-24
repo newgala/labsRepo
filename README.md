@@ -1,41 +1,40 @@
 ![alt text](https://github.com/newgala/IronAngela/blob/main/logo-ironhack-blue.png)
-# Ironhack class project : Predicting strokes incidences
-### Data: [Kaggle](https://www.kaggle.com/general/248836)
+# Ironhack Homelab: predicting strokes incidences
+![alt text](https://github.com/newgala/IronAngela/blob/main/stroke%20pic.jpg)
+### Data: [download](https://github.com/newgala/BCNDATA0122/blob/main/ClassMaterials/Week4/data%20sources/strokes_data.csv)
 
-### About the project:
-Predicting strokes incidences
-***
 ### Objective:
-Our main challenge will be to use Python to clean, wrangle and generally reshape the data to make it more straightforward to analyse with Python or to visualise with Tableau to plot the data.
+Predicting strokes incidences using the logistic regression classify and fit the model to a more balanced data
 ***
 ### Built with:
- [Python](https://www.python.org/)
-1. Initial cleaning steps
-2. EDA:
-Pre-processing
-4. Train, test, split
-5. Logistic regression classify
-6.  Check accuracy of our classification model
-7.Resampling techniques
-* 
-* Counting true values to define subtotals
-
 [Tableau](https://www.tableau.com/)
-* Data aggregations and visualisations of which variable have more impact on the incidence rate
-*
-* 
-***
-#### Following some visualisation with Tableau showing:
-* top 5 States and cities with the most job opportunities
-* top 3 talents the employer are looking for 
-* top 3 skills, tools, education the employer wants in the ideal data scientist
+* #### Data aggregations and visualisations:
+ compare the variable have more impact on the incidence rate and we found out that the age and the BMI are highly correlated to the incidence of strokes.
 
-![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/1.png)
-***
-![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/2.png)
-***
-![alt text](https://github.com/newgala/IronAngela/blob/main/Readme%20pic/3.png)
+ [Python](https://www.python.org/)
+* #### Initial cleaning steps   
+  deal with nulls and drop useless columns
+* #### EDA
+  review columns' distribution, counts and correlation
+* #### Pre-processing: encode categories and scale numerics
+* #### Train, test, split
+* #### Define model
+  Logistic regression classify
+* #### Check accuracy of our classification model
+* #### Fit the model to more balanced data
+* #### Resampling techniques
+  confusion_matrix and heatmap
+* #### Correlating categories
+  Random Under Sampler and Random Over Sampler
+* #### AUC
+
+[link to code ](http://localhost:8889/notebooks/Desktop/GitHub/filesforwork/Predicting_strokes_incidences%2008.02.2022.ipynb)
+
 ***
 
 ### Insight
-We found challenging to properly filter the keywords in the dataset, so our findings can be improved.
+
+1. Our model predicted the incident of stroke with an accurancy of 78%
+2. We suspect the following features to impact the stroke incidence: age, BMI, hypertension and smoking status.
+
+ 
